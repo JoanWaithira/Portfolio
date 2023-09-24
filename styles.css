@@ -147,8 +147,8 @@ footer .social-links a {
   color: var(--branding-color);
   background-color: var(--secondary-color);
   padding: 10px 14px;
-  width: 18px;
-  height: 18px;
+  /* width: 18px;
+  height: 18px; */
   font-size: 18px;
   border-radius: 50%;
 }
