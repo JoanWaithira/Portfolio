@@ -41,7 +41,7 @@ p {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 .hero p {
   font-size: 36px;
@@ -89,7 +89,7 @@ p {
   margin: 20px 0;
 }
 .content-container {
-  padding: 160px 20px;
+  padding: 40px 20px;
 }
 .content {
   margin: 30px;
